@@ -16,7 +16,13 @@ public class JavaBasics {
         // String fullName = sc.nextLine(); //nextLine() --> stores value with spaces
         // System.out.println(fullName);
 
-        int number = sc.nextInt(); // stores integer input
-        System.out.println(number);
+        // int number = sc.nextInt(); // stores integer input
+        // System.out.println(number);
+
+        // float price = sc.nextFloat(); // stores floating input
+        // System.out.println(price);
+
+        boolean ans = sc.nextBoolean(); // for boolean input
+        System.out.println(ans);
     }
 }
