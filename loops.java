@@ -4,10 +4,16 @@ public class loops {
         
         // while loop
 
-        int counter = 1;
-        while (counter <= 10){
-            System.out.println(counter);
-            counter++;
+        // int counter = 1;
+        // while (counter <= 10){
+        //     System.out.println(counter);
+        //     counter++;
+        // }
+
+        // for loop
+
+        for(int i=1; i<=10; i++) {
+            System.out.println("Hello World!");
         }
     }
 }
