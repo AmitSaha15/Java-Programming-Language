@@ -1,4 +1,6 @@
 // Keep entering numbers till user enters a multiple of 10
+// break --> to exit the loop
+
 import java.util.*;
 public class breakStatement {
     public static void main(String[] args) {
