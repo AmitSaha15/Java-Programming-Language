@@ -12,8 +12,16 @@ public class loops {
 
         // for loop
 
-        for(int i=1; i<=10; i++) {
-            System.out.println("Hello World!");
-        }
+        // for(int i=1; i<=10; i++) {
+        //     System.out.println("Hello World!");
+        // }
+
+        // do-while loop
+
+        int counter =1;
+        do{
+            System.out.println("Hello world.");
+            counter++;
+        } while(counter <= 10);
     }
 }
