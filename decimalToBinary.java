@@ -10,8 +10,7 @@ public class decimalToBinary {
         while(decNum > 0){
             int rem = decNum % 2;
             binNum = binNum + (rem * (int) Math.pow(10, pow));
-            int q = decNum / 2;
-            decNum = q;
+            decNum = decNum / 2;
             pow++;
         }
 
