@@ -1,3 +1,5 @@
+// Max subarray sum using Brute Force
+
 public class maxSubarraySum {
 
     public static void max_subarrays_sum(int numbers[]){
